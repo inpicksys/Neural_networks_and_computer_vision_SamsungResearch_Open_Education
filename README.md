@@ -1,5 +1,5 @@
 # Neural networks and computer vision
-Predict sales prices and practice feature engineering, gradient boosting
+## Samsung Research Open Education
 
 ##  Motivation
 How the thinking model implemented in neural networks is organized. How neurons simulate logical algorithms. And how large networks are built on their basis. The seminar will take you through the basics of computing in PyTorch, Python-library for neural network development.
